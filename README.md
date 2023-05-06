@@ -1,2 +1,3 @@
 # DagoBot
-Discord Bot
+
+Discord Bot.
